@@ -1,6 +1,6 @@
 👋 Hi, I’m Jordan Wolfaardt. I'm originally from Cape Town, South Africa and moved to the United States when I was nine.
 
-👀 At work I use data and technology to make investment and portfolio management decisions. Outside of work, I love surfing and live music.
+👀 At work I use data and technology to make investment and portfolio management decisions. Outside of work, I love surfing, reading, and live music.
 
 💻 Almost all the code I've written has been for work or school, neither of which am I able to post here. My favorite coding exercises are building simulations. I've used Python and C the most, but also have experience with C++, C#, Java, VBA, JavaScript, and Scala. I've worked with AWS extensively and Azure to a lesser extent.
 
